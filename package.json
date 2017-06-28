@@ -1,0 +1,19 @@
+{
+  "name": "nodejsworkshop",
+  "version": "1.0.0",
+  "description": "nodejs woerksop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://stash.cdk.com/scm/~yeagerjo/nodejsworkshop.git"
+  },
+  "author": "Harshraj Thakor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
